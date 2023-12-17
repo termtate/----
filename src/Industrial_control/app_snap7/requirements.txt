@@ -1,0 +1,2 @@
+python-snap7
+httpx>=0.25.2
